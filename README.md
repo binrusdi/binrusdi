@@ -23,6 +23,7 @@ Pengembangan aplikasi berbasis AI
 - Meningkatkan kemampuan dalam menggunakan teknologi AI
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binrusdi&langs_count=8&theme=radical&layout=compact)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binrusdi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binrusdi&langs_count=8&theme=radical)
 
