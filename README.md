@@ -1,16 +1,28 @@
 ## Hi there 👋
+Perkenalkan, saya **Rusdiana** atau biasa dipanggil dian.
+Saya memiliki keterampilan lanjutan dalam Machine Learning setelah menyelesaikan program **Coding Camp Expert 2024 oleh DBS Foundation**.
 
-<!--
-**binrusdi/binrusdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Keterampilan**
 
-Here are some ideas to get you started:
+- Machine Learning Engineere & Data Analyst
+- Pengembangan model Machine Learning
+- Analisis data
+- Penggunaan algoritma
+- Pembuatan model prediktif
+- Pembuatan Sistem Rekomendasi
+- Penggunaan bahasa pemrograman seperti Python
+- Penggunaan library seperti TensorFlow, PyTorch, atau Scikit-learn
+Pengembangan aplikasi berbasis AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Pencapaian**
+
+- Menyelesaikan program Coding Camp Machine Learning Tahap Expert 2024
+- Menguasai konsep-konsep Machine Learning lanjutan
+- Mengembangkan kemampuan analisis data dan pengembangan model
+- Meningkatkan kemampuan dalam menggunakan teknologi AI
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=binrusdi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binrusdi&langs_count=8&theme=radical)
+
