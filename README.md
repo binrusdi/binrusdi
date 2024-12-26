@@ -4,7 +4,7 @@ Saya memiliki keterampilan lanjutan dalam Machine Learning setelah menyelesaikan
 
 **Keterampilan**
 
-- Machine Learning Engineere & Data Analyst
+- Machine Learning Engineer & Data Analyst
 - Pengembangan model Machine Learning
 - Analisis data
 - Penggunaan algoritma
